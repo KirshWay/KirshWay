@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**KirshWay/KirshWay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, my name is Victor
+I am currently a **frontend developer**
 
-Here are some ideas to get you started:
+Social:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src="https://img.shields.io/badge/-Telegram-000?logo=telegram" />](https://t.me/HidanBla)
+[<img src="https://img.shields.io/badge/-VK-1a4bad?logo=vk" />](https://vk.com/nemec_victor)
+[<img src="https://img.shields.io/badge/-Twitter-fff?logo=twitter" />](https://twitter.com/KirshWay)
+
+## A little about myself
+
+I like to read books, especially detectives and dystopias. I like cinematography very much, I like comic books a little bit, I play games sometimes. I like to travel and dream of visiting many parts of the world.
+
+Stack:
+- JS 🟨
+- TS 🟦
+- Vue and Nuxt 🦕
+- React🧿 and Next🧿
