@@ -65,5 +65,6 @@ MMMMMMMMMMMM++++++++@@##@@##++@@MM++++mm++      ....        ....      ..  ..  ..
 ########################@@++mm++++mmmm++mm          ..      ..mmmmmmmmmmmmmmmm++mm++mm++mm++++++++::++++MM##################################
 
 > Hi, there! 👋  
-> I'm Viktor, a passionate full-stack developer with a strong focus on frontend technologies. I enjoy building, user-friendly applications
+> I'm Viktor, a passionate full-stack developer with a strong focus on frontend technologies. 
+> I enjoy building, user-friendly applications
 ```
